@@ -1,2 +1,2 @@
-<Enter your e-mail here>
-<Enter your password here>
+<Enter your e-mail>
+<Enter your password>
